@@ -1,2 +1,0 @@
-(this["webpackJsonpbudget-app"]=this["webpackJsonpbudget-app"]||[]).push([[0],{10:function(e,t,c){"use strict";c.r(t);var n=c(0),r=c(1),s=c.n(r),a=c(3),p=c.n(a);c(9);var i=function(){return Object(n.jsx)("div",{className:"container",children:Object(n.jsx)("div",{className:"app-wrapper",children:Object(n.jsx)("h1",{children:"App"})})})};p.a.render(Object(n.jsx)(s.a.StrictMode,{children:Object(n.jsx)(i,{})}),document.getElementById("root"))},9:function(e,t,c){}},[[10,1,2]]]);
-//# sourceMappingURL=main.043ccd9b.chunk.js.map

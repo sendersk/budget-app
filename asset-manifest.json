@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/budget-app/static/css/main.fe21eab9.chunk.css",
-    "main.js": "/budget-app/static/js/main.043ccd9b.chunk.js",
-    "main.js.map": "/budget-app/static/js/main.043ccd9b.chunk.js.map",
+    "main.css": "/budget-app/static/css/main.955ddc37.chunk.css",
+    "main.js": "/budget-app/static/js/main.d2570ed2.chunk.js",
+    "main.js.map": "/budget-app/static/js/main.d2570ed2.chunk.js.map",
     "runtime-main.js": "/budget-app/static/js/runtime-main.cbf6785a.js",
     "runtime-main.js.map": "/budget-app/static/js/runtime-main.cbf6785a.js.map",
-    "static/js/2.44bbcb87.chunk.js": "/budget-app/static/js/2.44bbcb87.chunk.js",
-    "static/js/2.44bbcb87.chunk.js.map": "/budget-app/static/js/2.44bbcb87.chunk.js.map",
+    "static/js/2.63753fba.chunk.js": "/budget-app/static/js/2.63753fba.chunk.js",
+    "static/js/2.63753fba.chunk.js.map": "/budget-app/static/js/2.63753fba.chunk.js.map",
     "index.html": "/budget-app/index.html",
-    "static/css/main.fe21eab9.chunk.css.map": "/budget-app/static/css/main.fe21eab9.chunk.css.map",
-    "static/js/2.44bbcb87.chunk.js.LICENSE.txt": "/budget-app/static/js/2.44bbcb87.chunk.js.LICENSE.txt"
+    "static/css/main.955ddc37.chunk.css.map": "/budget-app/static/css/main.955ddc37.chunk.css.map",
+    "static/js/2.63753fba.chunk.js.LICENSE.txt": "/budget-app/static/js/2.63753fba.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.cbf6785a.js",
-    "static/js/2.44bbcb87.chunk.js",
-    "static/css/main.fe21eab9.chunk.css",
-    "static/js/main.043ccd9b.chunk.js"
+    "static/js/2.63753fba.chunk.js",
+    "static/css/main.955ddc37.chunk.css",
+    "static/js/main.d2570ed2.chunk.js"
   ]
 }
