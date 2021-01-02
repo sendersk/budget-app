@@ -8,7 +8,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## Description
 
-It is a budget application created for educational purposes. The current version includes adding income and expenses along with amounts. Total income is shown in the field ** Income ** and total expenditure is shown in the field ** Expenses **. The difference between your income and expenses is immediately displayed under the ** Your Balance ** field. Additionally income and expenses will be saved in the local browser's memory.
+It is a budget application created for educational purposes. The current version includes adding income and expenses along with amounts. Total income is shown in the field **Income** and total expenditure is shown in the field **Expenses**. The difference between your income and expenses is immediately displayed under **Your Balance** field. Additionally income and expenses will be saved in the local browser's memory.
 
 ## Available Scripts
 
