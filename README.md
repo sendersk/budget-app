@@ -1,5 +1,14 @@
 # BUDGET APP
 
+## Table of contents
+
+- [DEMO](#demo)
+- [Description](#description)
+- [Available Scripts](#available-scripts)
+    - [npm start](#npm-start)
+    - [npm run build](#npm-run-build)
+    - [npm run eject](#npm-run-eject)
+
 ## DEMO
 
 https://sendersk.github.io/budget-app/
