@@ -4,6 +4,7 @@
 
 - [DEMO](#demo)
 - [Description](#description)
+- [How to use](#how-to-use)
 - [Available Scripts](#available-scripts)
     - [npm start](#npm-start)
     - [npm run build](#npm-run-build)
@@ -18,6 +19,16 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 ## Description
 
 It is a budget application created for educational purposes. The current version includes adding income and expenses along with amounts. Total income is shown in the field **Income** and total expenditure is shown in the field **Expenses**. The difference between your income and expenses is immediately displayed under **Your Balance** field. Additionally income and expenses will be saved in the local browser's memory.
+
+## How to use
+
+1. Write content of the Income/Expense.
+2. Write amount of the Income/Expense.
+3. Press **Enter** or click on the button **Submit**.
+4. Once you will add income/expense, it will be shown on list below called **Transaction History**.
+5. Total amount of income will be shown beneath **Income** field.
+6. Total amount of expenses will be shown beneath **Expenses** field.
+7. Different beetwen sum of incomes and expenses, will be shown in the field **Your Balance**.  
 
 ## Available Scripts
 
