@@ -5,6 +5,7 @@
 - [DEMO](#demo)
 - [Description](#description)
 - [How to use](#how-to-use)
+- [Technologies and methodologies used](#technologies-and-methodologies-used)
 - [Available Scripts](#available-scripts)
     - [npm start](#npm-start)
     - [npm run build](#npm-run-build)
@@ -29,6 +30,19 @@ It is a budget application created for educational purposes. The current version
 5. Total amount of income will be shown beneath **Income** field.
 6. Total amount of expenses will be shown beneath **Expenses** field.
 7. Different beetwen sum of incomes and expenses, will be shown in the field **Your Balance**.  
+
+## Technologies and methodologies used
+
+- React
+- create-react-app
+- HTML
+- CSS
+- JavaScript 
+- npm
+- localStorage
+- Hooks
+- JSX
+- Context API
 
 ## Available Scripts
 
